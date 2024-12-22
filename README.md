@@ -9,24 +9,24 @@ Team Members =>
 5) Helin Patel  (KU2407U072)
 
 
-# OBJECTIVE OF PROJECT
+## OBJECTIVE OF PROJECT
 
 The project aims to perform a Simple analysis and forecasting of dairy products between diffrent states and comparision between two states
 
 
-# TOOL AND LIBRARIES USED
+## TOOL AND LIBRARIES USED
 
 - Pandas
 - NumPy
 - Matplotlib
 
 
-# DATA SOURCE
+## DATA SOURCE
 
 Kaggle: Dairy Goods Sales Dataset
 
 
-# EXECUTION STEPS
+## EXECUTION STEPS
 
 1. Clone or download the repository containing the project files.
 2. Install the required Python libraries using pip install -r requirements.txt.
