@@ -15,7 +15,12 @@ The project aims to perform a comprehensive analysis and forecasting of dairy go
 
 ## Tools and Libraries Used
 
-Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Statsmodels
 
 ## Data Source(s)
 
@@ -30,11 +35,11 @@ Kaggle: Dairy Goods Sales Dataset
 
 ## Summary of Results
 
-Identified key trends in dairy goods sales over time.
-Seasonal patterns and monthly sales distribution were analyzed.
-Machine learning models successfully forecast future sales with reasonable accuracy.
+1. Identified key trends in dairy goods sales over time.
+2. Seasonal patterns and monthly sales distribution were analyzed.
+3. Machine learning models successfully forecast future sales with reasonable accuracy.
 
-**Challenges Faced**
+## Challenges Faced
 
-Handling missing data and outliers for accurate analysis.
-Ensuring model performance with minimal overfitting for better generalization.
+1. Handling missing data and outliers for accurate analysis.
+2. Ensuring model performance with minimal overfitting for better generalization.
