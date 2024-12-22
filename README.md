@@ -9,26 +9,26 @@
 - Helin Patel(KU2407U072)
 
 
-**Objective of the Project**
+## Objective of the Project
 
 The project aims to perform a comprehensive analysis and forecasting of dairy goods sales, identifying trends, seasonal patterns, and factors influencing sales performance.
 
-**Tools and Libraries Used**
+## Tools and Libraries Used
 
 Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels
 
-**Data Source(s)**
+## Data Source(s)
 
 Kaggle: Dairy Goods Sales Dataset
 
-**Execution Steps**
+## Execution Steps
 
-Clone or download the repository containing the project files.
-Install the required Python libraries using pip install -r requirements.txt.
-Place the dataset in the specified directory.
-Run the Python script to visualize the sales data and generate forecasts.
+1. Clone or download the repository containing the project files.
+2. Install the required Python libraries using pip install -r requirements.txt.
+3. Place the dataset in the specified directory.
+4. Run the Python script to visualize the sales data and generate forecasts.
 
-**Summary of Results**
+## Summary of Results
 
 Identified key trends in dairy goods sales over time.
 Seasonal patterns and monthly sales distribution were analyzed.
