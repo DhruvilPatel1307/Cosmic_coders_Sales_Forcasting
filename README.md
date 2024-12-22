@@ -14,22 +14,16 @@ Team Members =>
 The project aims to perform a Simple analysis and forecasting of dairy products between diffrent states and comparision between two states
 
 
-
 # TOOL AND LIBRARIES USED
 
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-- Scikit-learn
-- Statsmodels
-
 
 
 # DATA SOURCE
 
 Kaggle: Dairy Goods Sales Dataset
-
 
 
 # EXECUTION STEPS
@@ -38,7 +32,6 @@ Kaggle: Dairy Goods Sales Dataset
 2. Install the required Python libraries using pip install -r requirements.txt.
 3. Place the dataset in the specified directory.
 4. Run the Python script to visualize the sales data and generate forecasts.
-
 
 
 # SUMMARY OF RESULT
