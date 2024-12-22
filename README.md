@@ -1,12 +1,12 @@
-***Sales Forcasting***
+# Sales Forcasting
 
-**Group Members**
+## Group Members
 
-Dhruvil Patel(KU2407U052)
-Digvijaysinh Vala(KU2407U226)
-Krrish Chudasama(KU2407U120)
-Happy Soliya(KU2407U)
-Helin Patel(KU2407U)
+- Dhruvil Patel(KU2407U052)
+- Digvijaysinh Vala(KU2407U226)
+- Krrish Chudasama(KU2407U120)
+- Happy Soliya(KU2407U829)
+- Helin Patel(KU2407U072)
 
 
 **Objective of the Project**
