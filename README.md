@@ -14,7 +14,7 @@ Team Members =>
 The project aims to perform a Simple analysis and forecasting of dairy products between diffrent states and comparision between two states
 
 
-# TOOL AND LIBRARIES USED
+# TOOLS AND LIBRARIES USED
 
 - Pandas
 - NumPy
